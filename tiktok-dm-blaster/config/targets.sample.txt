@@ -1,0 +1,4 @@
+# one username per line (optionally username,user_id)
+@somecreator
+@another_user
+@daily_dancer
