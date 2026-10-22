@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+*.log
+reports/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+build/
+*.session
+targets.local.txt
