@@ -1,0 +1,7 @@
+[blaster]
+threads = 3
+delay = 6.5
+jitter = 2.0
+retries = 3
+session_cookie_env = "TT_SESSIONID"
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) TikTok/33.7.4"
